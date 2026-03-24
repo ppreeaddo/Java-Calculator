@@ -1,6 +1,6 @@
 # Java Calculator
 
-I made a simple Java calculator that takes **two numbers** and an **operation** from the user, then outputs the result. 
+I made a simple Java calculator that takes two numbers and an operation from the user, then outputs the result. 
 ## Features
 
 - Addition (+), subtraction (-), multiplication (*), division (/)
